@@ -1,0 +1,297 @@
+
+{
+  "data": [
+    {
+      "type": "assets",
+      "id": "2302",
+      "attributes": {
+        "title": "novak-djokovic-US Open.jpg",
+        "metadataFormat": "jpg",
+        "metadataUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/v1537205308/AmexBrandPortal/novak-djokovic-US%20Open.jpg",
+        "assetThumbnailUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/w_251/v1537205308/AmexBrandPortal/novak-djokovic-US%20Open.jpg",
+        "availableFormats": {
+          "High": null,
+          "Medium": null,
+          "Low": [
+            {
+              "ext": "JPG",
+              "filesize": -1
+            }
+          ]
+        },
+        "created": "1537205307"
+      },
+      "links": {
+        "self": "https://brandcenter.brandwizard.ai/api/v1.0/assets/2302"
+      }
+    },
+    {
+      "type": "assets",
+      "id": "2269",
+      "attributes": {
+        "title": "Fishing Camp.jpeg",
+        "metadataFormat": "jpg",
+        "metadataUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/v1535740210/AmexBrandPortal/Fishing%20Camp.jpg",
+        "assetThumbnailUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/w_251/v1535740210/AmexBrandPortal/Fishing%20Camp.jpg",
+        "availableFormats": {
+          "High": null,
+          "Medium": null,
+          "Low": [
+            {
+              "ext": "JPG",
+              "filesize": -1
+            }
+          ]
+        },
+        "created": "1535740210"
+      },
+      "links": {
+        "self": "https://brandcenter.brandwizard.ai/api/v1.0/assets/2269"
+      }
+    },
+    {
+      "type": "assets",
+      "id": "2241",
+      "attributes": {
+        "title": "BrandWizard-cards.jpg",
+        "metadataFormat": "jpg",
+        "metadataUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/v1533818145/AmexBrandPortal/BrandWizard-all-cards-01.jpg",
+        "assetThumbnailUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/w_251/v1533818145/AmexBrandPortal/BrandWizard-all-cards-01.jpg",
+        "availableFormats": {
+          "High": null,
+          "Medium": null,
+          "Low": [
+            {
+              "ext": "JPG",
+              "filesize": 0
+            }
+          ]
+        },
+        "created": "1533721974"
+      },
+      "links": {
+        "self": "https://brandcenter.brandwizard.ai/api/v1.0/assets/2241"
+      }
+    },
+    {
+      "type": "assets",
+      "id": "1926",
+      "attributes": {
+        "title": "Cappuccino.jpg",
+        "metadataFormat": "jpg",
+        "metadataUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/v1536600220/AmexBrandPortal/BrandActivate%2001_0.jpg",
+        "assetThumbnailUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/w_251/v1536600220/AmexBrandPortal/BrandActivate%2001_0.jpg",
+        "availableFormats": {
+          "High": null,
+          "Medium": null,
+          "Low": [
+            {
+              "ext": "JPG",
+              "filesize": 0
+            }
+          ]
+        },
+        "created": "1521578628"
+      },
+      "links": {
+        "self": "https://brandcenter.brandwizard.ai/api/v1.0/assets/1926"
+      }
+    },
+    {
+      "type": "assets",
+      "id": "1814",
+      "attributes": {
+        "title": "Dubai.mp4",
+        "metadataFormat": "mp4",
+        "metadataUrl": "https://res.cloudinary.com/dhhpi63bj/video/upload/v1520952301/AmexBrandPortal/Dubai_2.mp4",
+        "assetThumbnailUrl": "https://res.cloudinary.com/dhhpi63bj/video/upload/w_320/v1520952301/AmexBrandPortal/Dubai_2.jpg",
+        "availableFormats": {
+          "High": null,
+          "Medium": null,
+          "Low": [
+            {
+              "ext": "mp4",
+              "filesize": 0
+            }
+          ]
+        },
+        "created": "1520952298"
+      },
+      "links": {
+        "self": "https://brandcenter.brandwizard.ai/api/v1.0/assets/1814"
+      }
+    },
+    {
+      "type": "assets",
+      "id": "1812",
+      "attributes": {
+        "title": "Taipei.tiff",
+        "metadataFormat": "jpg",
+        "metadataUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/v1515521447/AmexBrandPortal/Taipei.jpg",
+        "assetThumbnailUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/w_251/v1515521447/AmexBrandPortal/Taipei.jpg",
+        "availableFormats": {
+          "High": null,
+          "Medium": null,
+          "Low": [
+            {
+              "ext": "JPG",
+              "filesize": 0
+            }
+          ]
+        },
+        "created": "1520952141"
+      },
+      "links": {
+        "self": "https://brandcenter.brandwizard.ai/api/v1.0/assets/1812"
+      }
+    },
+    {
+      "type": "assets",
+      "id": "1811",
+      "attributes": {
+        "title": "Seattle.jpg",
+        "metadataFormat": "jpg",
+        "metadataUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/v1515447449/AmexBrandPortal/Seattle.jpg",
+        "assetThumbnailUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/w_251/v1515447449/AmexBrandPortal/Seattle.jpg",
+        "availableFormats": {
+          "High": null,
+          "Medium": null,
+          "Low": [
+            {
+              "ext": "JPG",
+              "filesize": 0
+            }
+          ]
+        },
+        "created": "1520952141"
+      },
+      "links": {
+        "self": "https://brandcenter.brandwizard.ai/api/v1.0/assets/1811"
+      }
+    },
+    {
+      "type": "assets",
+      "id": "1810",
+      "attributes": {
+        "title": "San Francisco.tiff",
+        "metadataFormat": "png",
+        "metadataUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/v1515521844/AmexBrandPortal/San%20Francisco.png",
+        "assetThumbnailUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/w_251/v1515521844/AmexBrandPortal/San%20Francisco.png",
+        "availableFormats": {
+          "High": null,
+          "Medium": null,
+          "Low": [
+            {
+              "ext": "png",
+              "filesize": 0
+            }
+          ]
+        },
+        "created": "1520952141"
+      },
+      "links": {
+        "self": "https://brandcenter.brandwizard.ai/api/v1.0/assets/1810"
+      }
+    },
+    {
+      "type": "assets",
+      "id": "1809",
+      "attributes": {
+        "title": "Los Angeles.png",
+        "metadataFormat": "jpg",
+        "metadataUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/v1515447422/AmexBrandPortal/Los%20Angeles.jpg",
+        "assetThumbnailUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/w_251/v1515447422/AmexBrandPortal/Los%20Angeles.jpg",
+        "availableFormats": {
+          "High": null,
+          "Medium": null,
+          "Low": [
+            {
+              "ext": "JPG",
+              "filesize": 0
+            }
+          ]
+        },
+        "created": "1520952141"
+      },
+      "links": {
+        "self": "https://brandcenter.brandwizard.ai/api/v1.0/assets/1809"
+      }
+    },
+    {
+      "type": "assets",
+      "id": "1804",
+      "attributes": {
+        "title": "Sydney.tiff",
+        "metadataFormat": "png",
+        "metadataUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/v1520870934/AmexBrandPortal/Sydney.png",
+        "assetThumbnailUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/w_251/v1520870934/AmexBrandPortal/Sydney.png",
+        "availableFormats": {
+          "High": null,
+          "Medium": null,
+          "Low": [
+            {
+              "ext": "png",
+              "filesize": 0
+            }
+          ]
+        },
+        "created": "1520951629"
+      },
+      "links": {
+        "self": "https://brandcenter.brandwizard.ai/api/v1.0/assets/1804"
+      }
+    },
+    {
+      "type": "assets",
+      "id": "1803",
+      "attributes": {
+        "title": "Singapore.jpg",
+        "metadataFormat": "jpg",
+        "metadataUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/v1515447455/AmexBrandPortal/Singapore.jpg",
+        "assetThumbnailUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/w_251/v1515447455/AmexBrandPortal/Singapore.jpg",
+        "availableFormats": {
+          "High": {
+            "JPG": 0
+          },
+          "Medium": {
+            "JPG": 0
+          },
+          "Low": [
+            {
+              "ext": "JPG",
+              "filesize": 0
+            }
+          ]
+        },
+        "created": "1520951629"
+      },
+      "links": {
+        "self": "https://brandcenter.brandwizard.ai/api/v1.0/assets/1803"
+      }
+    },
+    {
+      "type": "assets",
+      "id": "1800",
+      "attributes": {
+        "title": "Paris.png",
+        "metadataFormat": "jpg",
+        "metadataUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/v1515447445/AmexBrandPortal/Paris.jpg",
+        "assetThumbnailUrl": "https://res.cloudinary.com/dhhpi63bj/image/upload/w_251/v1515447445/AmexBrandPortal/Paris.jpg",
+        "availableFormats": {
+          "High": null,
+          "Medium": null,
+          "Low": [
+            {
+              "ext": "JPG",
+              "filesize": 0
+            }
+          ]
+        },
+        "created": "1520951629"
+      },
+      "links": {
+        "self": "https://brandcenter.brandwizard.ai/api/v1.0/assets/1800"
+      }
+    }
+  ]
+}
